@@ -1,0 +1,22 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "first program",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JethlojaUtam/240823038.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "Jethloja Utam",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JethlojaUtam/240823038/issues"
+  },
+  "homepage": "https://github.com/JethlojaUtam/240823038#readme"
+}
