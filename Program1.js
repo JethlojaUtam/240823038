@@ -8,5 +8,5 @@ if(input%2==0) {
     console.log(input,"Number is even.")
 }
 else {
-    console.log(input,"Number is odd.")
+    console.log(input,"")
 }
