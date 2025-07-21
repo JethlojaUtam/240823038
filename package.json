@@ -1,0 +1,23 @@
+{
+  "name": "program-assignment",
+  "version": "1.0.0",
+  "description": "My life in first program",
+  "main": "Program1.js",
+  "type": "module",
+  "scripts": {
+    "test": "num run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JethlojaUtam/240823038.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "Utamkumar Jethloja",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JethlojaUtam/240823038/issues"
+  },
+  "homepage": "https://github.com/JethlojaUtam/240823038#readme"
+}
